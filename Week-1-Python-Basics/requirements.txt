@@ -1,0 +1,7 @@
+# No external libraries required for this project.
+# This program uses only Python built-in functions:
+# - input() for user interaction
+# - print() for displaying output
+# - f-strings for string formatting
+
+# Python version recommended: 3.8+
