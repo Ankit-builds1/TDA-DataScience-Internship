@@ -1,0 +1,105 @@
+# ============================================================
+# Test Cases - Student Grade Calculator
+# TDA Internship - Week 2
+# Author: Ankit Dash
+# ============================================================
+
+TEST CASE 1 - Grade A (Outstanding)
+Input:  Name = Ankit, Marks = 95
+Expected Output:
+  Grade   : A
+  Message : Outstanding! You're a star! 🌟
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 2 - Grade B (Very Good)
+Input:  Name = Priya, Marks = 85
+Expected Output:
+  Grade   : B
+  Message : Very Good! Keep it up! 👍
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 3 - Grade C (Good)
+Input:  Name = Rahul, Marks = 75
+Expected Output:
+  Grade   : C
+  Message : Good effort! You can do better! 💪
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 4 - Grade D (Average)
+Input:  Name = Sneha, Marks = 65
+Expected Output:
+  Grade   : D
+  Message : Keep trying! Practice makes perfect! 📚
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 5 - Grade F (Fail)
+Input:  Name = Rohan, Marks = 45
+Expected Output:
+  Grade   : F
+  Message : Don't give up! Seek help and try again! 🙏
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 6 - Boundary Value (Exactly 90)
+Input:  Name = Test, Marks = 90
+Expected Output:
+  Grade   : A
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 7 - Boundary Value (Exactly 0)
+Input:  Name = Test, Marks = 0
+Expected Output:
+  Grade   : F
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 8 - Boundary Value (Exactly 100)
+Input:  Name = Test, Marks = 100
+Expected Output:
+  Grade   : A
+Result: ✅ PASS
+
+------------------------------------------------------------
+
+TEST CASE 9 - Invalid Input (Marks > 100)
+Input:  Name = Test, Marks = 150
+Expected Output:
+  ⚠️ Invalid! Please enter marks between 0 and 100.
+Result: ✅ PASS (validation works correctly)
+
+------------------------------------------------------------
+
+TEST CASE 10 - Invalid Input (Negative Marks)
+Input:  Name = Test, Marks = -10
+Expected Output:
+  ⚠️ Invalid! Please enter marks between 0 and 100.
+Result: ✅ PASS (validation works correctly)
+
+------------------------------------------------------------
+
+TEST CASE 11 - Invalid Input (Text instead of number)
+Input:  Name = Test, Marks = "abc"
+Expected Output:
+  ⚠️ Invalid! Please enter a number.
+Result: ✅ PASS (error handling works correctly)
+
+------------------------------------------------------------
+
+GRADING LOGIC SUMMARY:
+A: 90-100  → Outstanding! You're a star! 🌟
+B: 80-89   → Very Good! Keep it up! 👍
+C: 70-79   → Good effort! You can do better! 💪
+D: 60-69   → Keep trying! Practice makes perfect! 📚
+F: 0-59    → Don't give up! Seek help and try again! 🙏
