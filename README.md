@@ -21,7 +21,7 @@
 | # | Week | Topic | Level | Status |
 |---|------|-------|-------|--------|
 | 1 | Week 1 | 🐍 Python Basics | 🟢 Beginner | ✅ Submitted |
-| 2 | Week 2 | 🔀 If-Else, Loops & Functions | 🟢 Beginner | ⏳ Pending |
+| 2 | Week 2 | 🔀 If-Else, Loops & Functions | 🟢 Beginner | ✅ Submitted |
 | 3 | Week 3 | 🐼 Pandas & Data Analysis | 🟢 Beginner | ⏳ Pending |
 | 4 | Week 4 | 📊 Data Visualization | 🟡 Intermediate | ⏳ Pending |
 | 5 | Week 5 | 🔧 Advanced Pandas | 🟡 Intermediate | ⏳ Pending |
@@ -57,7 +57,12 @@ TDA-DataScience-Internship/
 │   ├── requirements.txt
 │   └── screenshot.png
 │
-├── 📂 Week-2-Grade-Calculator/     🔜
+├── 📂 Week-2-Grade-Calculator/
+    ├── grade_calculator.py
+│   ├── README.md
+│   ├── requirements.txt
+│   └── screenshot.png
+    └──test_cases.txt
 ├── 📂 Week-3-Data-Analysis/        🔜
 ├── 📂 Week-4-Visualization/        🔜
 ├── 📂 Week-5-Advanced-Pandas/      🔜
