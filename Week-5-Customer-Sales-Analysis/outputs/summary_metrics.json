@@ -1,0 +1,65 @@
+{
+  "total_revenue": 12365048.0,
+  "total_units": 478,
+  "total_orders": 100,
+  "total_customers": 100,
+  "average_order_value": 123650.48,
+  "top_customer": "CUST016",
+  "top_customer_revenue": 373932.0,
+  "top_product": "Laptop",
+  "top_product_revenue": 3889210.0,
+  "top_region": "North",
+  "top_region_revenue": 3983635.0,
+  "best_month": "2024-03",
+  "best_month_revenue": 4485006.0,
+  "overall_churn_rate": 0.106,
+  "repeat_customers": 0,
+  "id_overlap": 0,
+  "merge_matched_rows": 0,
+  "sales_quality": {
+    "rows": 100,
+    "columns": 15,
+    "missing_values": {
+      "Date": 0,
+      "Product": 0,
+      "Quantity": 0,
+      "Price": 0,
+      "Customer_ID": 0,
+      "Region": 0,
+      "Total_Sales": 0,
+      "Calculated_Total": 0,
+      "Total_Mismatch": 0,
+      "Year": 0,
+      "Month": 0,
+      "Month_Name": 0,
+      "Month_Period": 0,
+      "Day": 0,
+      "Order_Value_Band": 0
+    },
+    "duplicate_rows": 0
+  },
+  "churn_quality": {
+    "rows": 500,
+    "columns": 12,
+    "missing_values": {
+      "CustomerID": 0,
+      "Tenure": 0,
+      "MonthlyCharges": 0,
+      "TotalCharges": 0,
+      "Contract": 0,
+      "PaymentMethod": 0,
+      "PaperlessBilling": 0,
+      "SeniorCitizen": 0,
+      "Churn": 0,
+      "Estimated_Lifetime_Value": 0,
+      "Churn_Label": 0,
+      "Tenure_Group": 0
+    },
+    "duplicate_rows": 0
+  },
+  "filters": {
+    "premium_north_or_south": 20,
+    "phones_or_laptops": 52,
+    "march_high_value": 18
+  }
+}
