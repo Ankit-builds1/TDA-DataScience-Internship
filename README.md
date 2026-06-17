@@ -24,7 +24,7 @@
 | 2 | Week 2 | 🔀 If-Else, Loops & Functions | 🟢 Beginner | ✅ Submitted |
 | 3 | Week 3 | 🐼 Pandas & Data Analysis | 🟢 Beginner | ✅ Submitted |
 | 4 | Week 4 | 📊 Data Visualization | 🟡 Intermediate | ✅ Submitted |
-| 5 | Week 5 | 🔧 Advanced Pandas | 🟡 Intermediate | ⏳ Pending |
+| 5 | Week 5 | 🔧 Advanced Pandas | 🟡 Intermediate | ✅ Submitted |
 | 6 | Week 6 | 🎨 Seaborn & Dashboards | 🟡 Intermediate | ⏳ Pending |
 | 7 | Week 7 | 📐 Statistics for DS | 🟡 Intermediate | ⏳ Pending |
 | 8 | Week 8 | 💼 Capstone - Business Analysis | 🔴 Advanced | ⏳ Pending |
