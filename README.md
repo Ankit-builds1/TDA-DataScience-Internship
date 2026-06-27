@@ -25,9 +25,9 @@
 | 3 | Week 3 | 🐼 Pandas & Data Analysis | 🟢 Beginner | ✅ Submitted |
 | 4 | Week 4 | 📊 Data Visualization | 🟡 Intermediate | ✅ Submitted |
 | 5 | Week 5 | 🔧 Advanced Pandas | 🟡 Intermediate | ✅ Submitted |
-| 6 | Week 6 | 🎨 Seaborn & Dashboards | 🟡 Intermediate | ⏳ Pending |
-| 7 | Week 7 | 📐 Statistics for DS | 🟡 Intermediate | ⏳ Pending |
-| 8 | Week 8 | 💼 Capstone - Business Analysis | 🔴 Advanced | ⏳ Pending |
+| 6 | Week 6 | 🎨 Seaborn & Dashboards | 🟡 Intermediate | ✅ Submitted |
+| 7 | Week 7 | 📐 Statistics for DS | 🟡 Intermediate | ✅ Submitted |
+| 8 | Week 8 | 💼 Capstone - Business Analysis | 🔴 Advanced | ✅ Submitted|
 | 9 | Week 9 | 🤖 ML Basics | 🔴 Advanced | ⏳ Pending |
 | 10 | Week 10 | ⚙️ Feature Engineering | 🔴 Advanced | ⏳ Pending |
 | 11 | Week 11 | 🌲 Advanced ML Models | 🔴 Capstone | ⏳ Pending |
