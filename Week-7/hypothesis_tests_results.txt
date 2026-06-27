@@ -1,0 +1,24 @@
+STATISTICAL ANALYSIS REPORT
+
+Hypothesis Test Results
+- Revenue: high marketing spend vs low marketing spend
+  Method: Welch independent t-test
+  Test statistic: 11.0179
+  p-value: 0.000000 (SIGNIFICANT)
+- Revenue: laptop vs non-laptop products
+  Method: Welch independent t-test
+  Test statistic: 1.9413
+  p-value: 0.060929 (NOT SIGNIFICANT)
+- Monthly charges: churned vs retained customers
+  Method: Welch independent t-test
+  Test statistic: 1.7517
+  p-value: 0.106056 (NOT SIGNIFICANT)
+- Revenue differences across regions
+  Method: One-way ANOVA
+  Test statistic: 2.1644
+  p-value: 0.097237 (NOT SIGNIFICANT)
+
+95% CI - Revenue mean: INR 103,776 to INR 143,525
+95% CI - Marketing spend mean: INR 35,636 to INR 38,329
+Correlation (Marketing Spend-Revenue): 0.8864
+Regression R-squared: 0.8869
