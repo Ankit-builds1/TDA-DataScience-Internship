@@ -1,0 +1,4 @@
+Pipeline,Accuracy,Precision,Recall,F1,ROC_AUC
+StandardScaler + Logistic Regression,0.95,0.6875,1.0,0.8148148148148148,0.9948927477017365
+MinMaxScaler + Logistic Regression,0.93,0.6111111111111112,1.0,0.7586206896551724,0.9969356486210418
+StandardScaler + Random Forest,0.99,0.9166666666666666,1.0,0.9565217391304348,1.0

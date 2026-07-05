@@ -1,0 +1,6 @@
+Feature,IQR_Lower,IQR_Upper,IQR_Outliers,ZScore_Outliers
+Tenure,-33.5,106.5,0,0
+MonthlyCharges,-69.5,294.5,0,0
+TotalCharges,-3807.0,12311.0,0,0
+AvgChargePerTenure,-187.17294730392155,483.7743566176471,59,11
+LifetimeValueProxy,-5277.5,12832.5,2,0
