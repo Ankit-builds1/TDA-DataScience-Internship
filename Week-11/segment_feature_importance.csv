@@ -1,0 +1,33 @@
+Feature,Importance,Segment,SegmentName
+ShortTenureFlag,0.31103339154183907,0,Premium Loyalists
+Tenure,0.20997844804323065,0,Premium Loyalists
+LifetimeValueProxy,0.14845041988741844,0,Premium Loyalists
+AvgChargePerTenure,0.1446876746358353,0,Premium Loyalists
+MonthlyToTotalRatio,0.05745687519672206,0,Premium Loyalists
+Contract_Month-to-month,0.03341222727936231,0,Premium Loyalists
+MonthlyCharges,0.03337228904432926,0,Premium Loyalists
+ContractRiskScore,0.026309762637624703,0,Premium Loyalists
+ShortTenureFlag,0.2770521794524705,1,Growth Accounts
+Tenure,0.22845357250134693,1,Growth Accounts
+LifetimeValueProxy,0.2153051772866457,1,Growth Accounts
+AvgChargePerTenure,0.15164224080640282,1,Growth Accounts
+TotalCharges,0.03534601664849872,1,Growth Accounts
+MonthlyToTotalRatio,0.03267318062175907,1,Growth Accounts
+MonthlyCharges,0.016637166541106658,1,Growth Accounts
+PaperlessBilling_Yes,0.011503092525503132,1,Growth Accounts
+Tenure,0.2895852189317204,2,At-Risk New Customers
+ShortTenureFlag,0.25516293198008055,2,At-Risk New Customers
+LifetimeValueProxy,0.15603822765251515,2,At-Risk New Customers
+AvgChargePerTenure,0.09324823916394984,2,At-Risk New Customers
+MonthlyToTotalRatio,0.08535425581972592,2,At-Risk New Customers
+MonthlyCharges,0.031405650164176416,2,At-Risk New Customers
+Contract_Month-to-month,0.02974633910464396,2,At-Risk New Customers
+TotalCharges,0.025891544284739724,2,At-Risk New Customers
+ShortTenureFlag,0.305341151601174,3,Budget Conscious
+Tenure,0.21941897358010926,3,Budget Conscious
+LifetimeValueProxy,0.16515679076789666,3,Budget Conscious
+AvgChargePerTenure,0.12396630712396817,3,Budget Conscious
+MonthlyToTotalRatio,0.05303704012145766,3,Budget Conscious
+MonthlyCharges,0.052044032193339876,3,Budget Conscious
+TotalCharges,0.03939567816759563,3,Budget Conscious
+ContractRiskScore,0.013121051672718985,3,Budget Conscious
