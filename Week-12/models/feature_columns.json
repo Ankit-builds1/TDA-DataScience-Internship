@@ -1,0 +1,17 @@
+[
+  "Tenure",
+  "MonthlyCharges",
+  "TotalCharges",
+  "SeniorCitizen",
+  "LifetimeValueProxy",
+  "AvgChargePerTenure",
+  "MonthlyToTotalRatio",
+  "ContractRiskScore",
+  "PaperlessBillingFlag",
+  "AutoPaymentFlag",
+  "HighMonthlyChargeFlag",
+  "ShortTenureFlag",
+  "Contract",
+  "PaymentMethod",
+  "PaperlessBilling"
+]

@@ -1,0 +1,27 @@
+{
+  "business_problem": "Predict customer churn and summarize supporting sales/property portfolio analytics.",
+  "success_metric": "F1 score and recall for churn risk identification.",
+  "sales_summary": {
+    "total_sales": 12365048.0,
+    "avg_order_value": 123650.48,
+    "top_product": "Laptop",
+    "top_region": "North"
+  },
+  "house_summary": {
+    "house_mae": 1478660.8333333333,
+    "house_r2": 0.9706173773352602,
+    "avg_price": 24883658.333333332
+  },
+  "churn_model": {
+    "accuracy": 0.99,
+    "recall": 1.0,
+    "f1": 0.9565217391304348,
+    "roc_auc": 1.0,
+    "best_params": {
+      "model__max_depth": 6,
+      "model__min_samples_leaf": 1,
+      "model__n_estimators": 200
+    },
+    "churn_rate": 0.106
+  }
+}
